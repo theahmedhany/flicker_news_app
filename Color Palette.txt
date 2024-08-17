@@ -1,0 +1,11 @@
+Color Palette : https://coolors.co/637e76-a5a58d-c69774-ddbea9-f8dfd4-ffefe8-f0efeb
+
+
+
+#637E76
+#A5A58D
+#C69774
+#DDBEA9
+#F8DFD4
+#FFEFE8
+#F0EFEB
