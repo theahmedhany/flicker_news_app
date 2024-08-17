@@ -26,9 +26,10 @@ This project has been a rewarding journey of continuous learning and growth, fro
 
 ## Demo and Resources
 #### To see Flicker in action, check out the video below:
+https://github.com/user-attachments/assets/ab12e7b5-78cf-4276-b1fd-570e9cc9f3b6
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="***************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-flicker-activity-7230520459434311680--DWJ?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
